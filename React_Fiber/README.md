@@ -6,7 +6,7 @@ The goal of React Fiber is to increase its sustainability for areas like animati
 
 Other key features include the ability to pause, abort, or reuse work as new updates come in; the ability to assign priority to different types of updates; and new concurrency primitives.
 
-### What is reconciliation?
+## What is reconciliation?
 
 <dl>
     <dt>reconciliation</dt>
