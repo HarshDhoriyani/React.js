@@ -11,9 +11,10 @@ Other key features include the ability to pause, abort, or reuse work as new upd
 <dl>
     <dt>reconciliation</dt>
     <dd>The algorithm React uses to differentiate one tree with another to determine which parts need to be changed.</dd>
-
+</dl>
+<dl>
     <dt>update</dt>
-    <dd>A change in the data used to render a React app. Usually the result of 'setState'. Eventually results in a re-render.<dd>
+    <dd>A change in the data used to render a React app. Usually the result of 'setState'. Eventually results in a re-render.</dd>
 </dl>
 
 The central idea of React's API is to think of updates as if they cause the entire app to re-render. This allows the developer to reason declaratively, rather than worry about how to efficiently transition the app from any particular state to another (A to B, B to C, C to A, and so on).
