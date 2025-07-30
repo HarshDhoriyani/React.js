@@ -42,19 +42,19 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 ### Installation
 
 1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/HarshDhoriyani/React.js.git](https://github.com/HarshDhoriyani/React.js.git)
+    ```bash
+    git clone https://github.com/HarshDhoriyani/React.js.git
     ```
 2.  **Navigate to the project folder you want to run:**
-    ```sh
+    ```bash
     cd react.js/02counter
     ```
 3.  **Install NPM packages:**
-    ```sh
+    ```bash
     npm install
     ```
 4.  **Start the development server:**
-    ```sh
+    ```bash
     npm start
     ```
     The application will open in your default browser at `http://localhost:3000`.
