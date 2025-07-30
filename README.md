@@ -20,11 +20,13 @@ Below is a list of the projects in this repository. Each project has its own fol
 
 * **Project 1: Simple Counter**
     * **Description:** A basic counter application to understand the fundamentals of state, events and hooks in React.
-    * **Link:** `[./02counter](./02counter)`
 
 * **Project 2: Background Changer**
-    * **Description:** A classic to-do list application to learn about managing lists, forms, and component state.
-    * **Link:** `[./03bgChanger](./03bgChanger)`
+    * **Description:** A simple background color changer built with **React** and styled with **Tailwind CSS**.
+
+* **Project 3: Password Generator**
+    * **Description:** An interactive tool for generating strong, secure passwords with customizable options for **length**, **numbers**, and **special characters**.
+
 
 
 ---
