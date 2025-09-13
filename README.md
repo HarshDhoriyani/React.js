@@ -27,6 +27,9 @@ Below is a list of the projects in this repository. Each project has its own fol
 * **Project 3: Password Generator**
     * **Description:** An interactive tool for generating strong, secure passwords with customizable options for **length**, **numbers**, and **special characters**.
 
+* **Project 4: Currency Converter**
+    * **Description:** A tool that allows users to convert amounts between different currencies using real-time exchange rates.**.
+
 
 
 ---
