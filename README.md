@@ -30,7 +30,8 @@ Below is a list of the projects in this repository. Each project has its own fol
 * **Project 4: Currency Converter**
     * **Description:** **A tool that allows users to convert amounts between different currencies using real-time exchange rates.**
 
-
+* **Project 5: Theme Switcher**
+    * **Description:** **A tool that enables global light/dark mode toggling without prop drilling, providing a consistent and user-friendly theming experience across the app.**
 
 ---
 
