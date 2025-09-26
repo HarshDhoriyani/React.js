@@ -33,6 +33,9 @@ Below is a list of the projects in this repository. Each project has its own fol
 * **Project 5: Theme Switcher**
     * **Description:** **A tool that enables global light/dark mode toggling without prop drilling, providing a consistent and user-friendly theming experience across the app.**
 
+* **Project 6: To Do List App**
+    * **Description:** **A modern React + Vite To-Do List app with Tailwind CSS featuring dark mode, task priorities, filters, inline editing, and localStorage persistence.**
+
 ---
 
 ## 🛠️ Getting Started
